@@ -35,6 +35,6 @@ A short (~200 word) description of the variable change proposed.
 
 The motivation is critical for OCCPs that want to update variables within Oikos. It should clearly explain why the existing variable is not incentive aligned. OCCP submissions without sufficient motivation may be rejected outright.
 
-## Copyright
+## Copyright 
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
