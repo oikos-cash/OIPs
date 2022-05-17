@@ -1,10 +1,10 @@
-# OIP [Discord](https://discord.gg/VVDu6Er) [Twitter](https://twitter.com/oikos_cash) [Telegram](https://t.me/oikoscash)
+# [OIP](https://oips.oikos.cash/) [Discord](https://discord.gg/VVDu6Er) [Twitter](https://twitter.com/oikos_cash) [Telegram](https://t.me/oikoscash)
 
 Oikos Improvement Proposals (OIP) describe standards for the Oikos platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
 
-1.  Review [OIP-1](https://github.com/oikos-cash/OIPs/blob/master/content/oip/oip-1.md).
+1.  Review [OIP-1](https://github.com/oikos-cash/OIPs/blob/master/content/oips/oip-1.md).
 2.  Fork the repository by clicking "Fork" in the top right.
 3.  Add your OIP to your fork of the repository. There is a [template OIP here](oip-x.md).
 4.  Submit a Pull Request to Oikos's [OIPs repository](https://github.com/oikos-cash/OIPs).
