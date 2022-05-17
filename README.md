@@ -1,4 +1,4 @@
-# OIP [Discord](https://discord.gg/VVDu6Er) [Twitter](https://twitter.com/oikos_cash) [Telegram](https://t.me/oikoscash)
+# [OIP](https://oips.oikos.cash/) [Discord](https://discord.gg/VVDu6Er) [Twitter](https://twitter.com/oikos_cash) [Telegram](https://t.me/oikoscash)
 
 Oikos Improvement Proposals (OIP) describe standards for the Oikos platform, including core protocol specifications, client APIs, and contract standards.
 
