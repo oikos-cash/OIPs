@@ -26,7 +26,7 @@ We would like to note that this is a transitionary step toward a full multi-chai
 ## ChainPort
 The user interface offered at https://app.chainport.io allows users to bridge their OKS to Polygon in a few steps. The process follows the classic ERC20 approval and transfer flow, at the end of which OKS on BSC are locked into a smart contract and an equivalent amount is minted on the [Polygon side](https://polygonscan.com/address/0xAA59eec0E39505104c6Ada6fEC944aef04E1E759).
 
-<br /><img src="https://raw.githubusercontent.com/oikos-cash/assets/master/media/wall.png" width="350"><br /><i>ChainPort user interface</i><br />
+<br /><img src="https://raw.githubusercontent.com/oikos-cash/assets/master/media/wall.png" style="margin-right:50%" width="350"><br /><i>ChainPort user interface</i><br />
 
 ## Staking
 Users will be able to stake their OKS on Polygon via the upcoming multi-chain portal. Rewards will be distributed weekly and escrowed for one year.
