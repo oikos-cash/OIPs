@@ -2,7 +2,7 @@
 occp: 1
 network: BNB Chain
 title: OCCP Purpose and Guidelines
-status: Draft
+status: Implemented
 author: Manuel Corona <@triloger>
 created: 2022-05-17T00:00:00.000Z
 type: Governance
